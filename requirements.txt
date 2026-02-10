@@ -4,4 +4,12 @@ streamlit
 uuid
 pydantic
 python-dotenv
+streamlit
+openai
+requests
+python-dotenv
+numpy
+faiss-cpu==1.7.4
+sentence-transformers
+torch==2.1.2
 asyncio
