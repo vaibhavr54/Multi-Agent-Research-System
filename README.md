@@ -4,7 +4,6 @@ An autonomous structured research platform built using Retrieval-Augmented Gener
 
 This system decomposes research into structured planning, web retrieval, contextual embedding, analytical drafting, critique evaluation, refinement, and conversational interaction.
 
----
 
 ## System Overview
 
@@ -20,16 +19,15 @@ It integrates:
 - Assistant-based contextual interaction
 - Streamlit-based professional interface
 
----
 
 ## Architecture
 
 The system follows a modular pipeline architecture:
- 
+ <img width="7811" height="8192" alt="architecture_diagram" src="https://github.com/user-attachments/assets/1bba5392-cc8b-4f3e-adae-f7b875c3da42" />
+
 
 Each agent performs a dedicated role to maintain separation of concerns and architectural clarity.
 
----
 
 ## Core Components
 
@@ -69,7 +67,6 @@ Each agent performs a dedicated role to maintain separation of concerns and arch
 - Uses final report as context
 - Enables contextual exploration
 
----
 
 ## Interface
 
@@ -81,7 +78,6 @@ Built using Streamlit with:
 - Expandable debug outputs
 - Justified academic formatting
 
----
 
 ## Tech Stack
 
@@ -94,7 +90,6 @@ Built using Streamlit with:
 - NumPy
 - dotenv
 
----
 
 ## Installation
 
@@ -133,7 +128,6 @@ SERPAPI_API_KEY=your_key_here
 streamlit run research_agent.py
 ```
 
----
 
 ## Evaluation Strategy
 
@@ -145,7 +139,6 @@ The system evaluates performance through:
 - Critique-based improvement comparison
 - Structured reasoning transparency
 
----
 
 ## Future Scope
 
@@ -159,7 +152,6 @@ The system evaluates performance through:
 - PDF export functionality
 - Deployment on cloud platforms
 
----
 
 ## Why This Project Matters
 
@@ -181,7 +173,6 @@ It demonstrates applied knowledge of:
 - LLM prompting
 - AI system design
 
----
 
 ## Topics
 
@@ -197,12 +188,10 @@ semantic-search
 openrouter
 ```
 
----
 
 ## 📜 License
 
 This project is open-source and available under the MIT License.
 
----
 
-## Made with ❤️ by Vaibhav Rakshe
+# Made with ❤️ by Vaibhav Rakshe
