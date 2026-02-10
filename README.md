@@ -23,6 +23,7 @@ It integrates:
 ## Architecture
 
 The system follows a modular pipeline architecture:
+
  <img width="7811" height="8192" alt="architecture_diagram" src="https://github.com/user-attachments/assets/1bba5392-cc8b-4f3e-adae-f7b875c3da42" />
 
 
@@ -96,7 +97,7 @@ Built using Streamlit with:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/advanced-multi-agent-research-system.git
+git clone https://github.com/vaibhavr54/advanced-multi-agent-research-system.git
 cd advanced-multi-agent-research-system
 ```
 
