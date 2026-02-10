@@ -459,7 +459,7 @@ elif page == "Architecture":
 
     st.image(
         "architecture_diagram.png",
-        width=True
+        use_container_width=True
     )
 
 
@@ -613,4 +613,5 @@ Visualize focus areas.
 Display retrieval clusters.  
 Enhance interpretability.
 """)
+
 
